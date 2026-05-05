@@ -1,0 +1,4 @@
+ticker,shares_outstanding,shares_bought,shares_sold,net_shares_sold,inssell,filtered_transactions,filtered_csv
+EL,361727043.0,0.0,0.0,0.0,0.0,0,To Upload/inssell/EL/inssell_filtered_transactions.csv
+COTY,880006359.0,88000.0,0.0,-88000.0,-9.99992773915853e-05,2,To Upload/inssell/COTY/inssell_filtered_transactions.csv
+ELF,59052239.0,5000.0,52880.0,47880.0,0.0008108075292454195,3,To Upload/inssell/ELF/inssell_filtered_transactions.csv
