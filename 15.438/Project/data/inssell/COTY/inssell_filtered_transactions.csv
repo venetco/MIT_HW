@@ -1,0 +1,3 @@
+ticker,form,filing_date,accession,owner_name,is_director,is_officer,is_ten_percent_owner,officer_title,derivative_flag,security_title,transaction_date,transaction_code,acquired_disposed_code,transaction_shares,transaction_price,shares_owned_following_txn,role
+COTY,4,2026-03-09,0001024305-26-000015,von Bretten Gordon,1,1,0,President - Consumer Beauty,N,Class A common stock,2026-03-06,P,A,83000,2.4131,986620,CEO
+COTY,4,2026-02-18,0001846654-26-000002,Mercier Laurent,0,1,0,Chief Financial Officer,N,Class A common stock,2026-02-10,P,A,5000,2.6499,500031,CFO
