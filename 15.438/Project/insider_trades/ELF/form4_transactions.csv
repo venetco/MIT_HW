@@ -1,7 +1,0 @@
-ticker,form,filing_date,accession,owner_name,is_director,is_officer,is_ten_percent_owner,officer_title,derivative_flag,security_title,transaction_date,transaction_code,acquired_disposed_code,transaction_shares,transaction_price,shares_owned_following_txn
-ELF,4,2026-04-02,0001610717-26-000139,AMIN TARANG,true,true,,Chief Executive Officer,N,"Common Stock, $0.01 par value",2026-04-01,M,A,71000,26.84,151296
-ELF,4,2026-04-02,0001610717-26-000139,AMIN TARANG,true,true,,Chief Executive Officer,N,"Common Stock, $0.01 par value",2026-04-01,S,D,31630,62.439,119666
-ELF,4,2026-04-02,0001610717-26-000139,AMIN TARANG,true,true,,Chief Executive Officer,N,"Common Stock, $0.01 par value",2026-04-01,S,D,21250,62.9289,98416
-ELF,4,2026-04-02,0001610717-26-000139,AMIN TARANG,true,true,,Chief Executive Officer,Y,Stock Option (Right to Buy),2026-04-01,M,D,71000,0,142000
-ELF,4,2026-02-23,0001610717-26-000056,FARRELL MATTHEW,true,,,,N,"Common Stock, $0.01 par value",2026-02-20,P,A,5000,92.9629,10820
-ELF,4,2026-02-17,0001610717-26-000050,FARRELL MATTHEW,true,,,,N,"Common Stock, $0.01 par value",2026-02-12,A,A,980,0,5820
