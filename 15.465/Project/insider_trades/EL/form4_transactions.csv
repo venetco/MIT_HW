@@ -1,0 +1,32 @@
+ticker,form,filing_date,accession,owner_name,is_director,is_officer,is_ten_percent_owner,officer_title,derivative_flag,security_title,transaction_date,transaction_code,acquired_disposed_code,transaction_shares,transaction_price,shares_owned_following_txn
+EL,4,2026-04-10,0001628280-26-024707,LAUDER AERIN,0,0,1,,Y,Class B Common Stock,2026-04-08,G,A,4768846,,4768846
+EL,4,2026-04-10,0001628280-26-024699,LAUDER RONALD S,0,1,1,"Chairman, Clinique Labs, LLC",Y,Class B Common Stock,2026-04-08,G,D,4768846,,0
+EL,4,2026-03-17,0001034657-26-000004,STERNLICHT BARRY S,1,0,0,,Y,Stock Units (Share Payout),2026-03-16,A,A,72.97,88.76,18643.09
+EL,4,2026-03-17,0001034657-26-000004,STERNLICHT BARRY S,1,0,0,,Y,Stock Units (Cash Payout),2026-03-16,A,A,184.9,88.76,47076.7
+EL,4,2026-03-17,0001008082-26-000002,Lauder William P,1,0,1,,Y,Stock Units (Share Payout),2026-03-16,A,A,3.09,88.76,789.08
+EL,4,2026-03-17,0001662661-26-000002,Long Annabelle Yu,1,0,0,,Y,Stock Units (Share Payout),2026-03-16,A,A,3.09,88.76,789.08
+EL,4,2026-03-17,0001267621-26-000004,Zinterhofer Eric Louis,1,0,0,,Y,Stock Units (Share Payout),2026-03-16,A,A,10.98,88.76,2803.9
+EL,4,2026-03-17,0001267621-26-000004,Zinterhofer Eric Louis,1,0,0,,Y,Stock Units (Cash Payout),2026-03-16,A,A,6.45,88.76,1641.23
+EL,4,2026-03-17,0001070938-26-000006,FRIBOURG PAUL J,1,0,0,,Y,Stock Units (Share Payout),2026-03-16,A,A,56.67,88.76,14478.7
+EL,4,2026-03-17,0001070938-26-000006,FRIBOURG PAUL J,1,0,0,,Y,Stock Units (Cash Payout),2026-03-16,A,A,161.31,88.76,41068.65
+EL,4,2026-03-17,0001923467-26-000002,Nunez Arturo,1,0,0,,Y,Stock Units (Share Payout),2026-03-16,A,A,16.69,88.76,4263.63
+EL,4,2026-03-17,0001008091-26-000006,LAUDER JANE,1,0,1,,Y,Stock Units (Share Payout),2026-03-16,A,A,3.09,88.76,789.08
+EL,4,2026-03-17,0001008088-26-000002,LAUDER GARY M,1,0,1,,Y,Stock Units (Share Payout),2026-03-16,A,A,17.27,88.76,4411.24
+EL,4,2026-03-17,0001737388-26-000002,Hyman Jennifer,1,0,0,,Y,Stock Units (Share Payout),2026-03-16,A,A,17.2,88.76,4393.39
+EL,4,2026-03-17,0001145766-26-000002,BARSHEFSKY CHARLENE,1,0,0,,Y,Stock Units (Share Payout),2026-03-16,A,A,92.31,88.76,23583.22
+EL,4,2026-03-17,0001189770-26-000002,ZANNINO RICHARD F,1,0,0,,Y,Stock Units (Share Payout),2026-03-16,A,A,11.68,88.76,2983.51
+EL,4,2026-03-17,0001189770-26-000002,ZANNINO RICHARD F,1,0,0,,Y,Stock Units (Share Payout),2026-03-16,A,A,41.71,88.76,10656.19
+EL,4,2026-03-17,0001736979-26-000004,Tejada Jennifer,1,0,0,,Y,Stock Units (Share Payout),2026-03-16,A,A,17.2,88.76,4393.39
+EL,4,2026-03-17,0001846224-26-000002,Strong Dana,1,0,0,,Y,Stock Units (Share Payout),2026-03-16,A,A,3.09,88.76,789.08
+EL,4,2026-03-02,0001070938-26-000004,FRIBOURG PAUL J,1,0,0,,Y,Stock Units (Cash Payout),2026-02-27,A,A,308.3,109.47,40907.34
+EL,4,2026-03-02,0001034657-26-000002,STERNLICHT BARRY S,1,0,0,,Y,Stock Units (Cash Payout),2026-02-27,A,A,246.64,109.47,46891.8
+EL,4,2026-03-02,0001267621-26-000002,Zinterhofer Eric Louis,1,0,0,,Y,Stock Units (Cash Payout),2026-02-27,A,A,246.64,109.47,1634.78
+EL,4,2026-03-02,0001955038-26-000002,de la Faverie Stephane,0,1,0,President and CEO,N,Class A Common Stock,2026-02-27,M,A,5787,,20963.148
+EL,4,2026-03-02,0001955038-26-000002,de la Faverie Stephane,0,1,0,President and CEO,N,Class A Common Stock,2026-02-27,F,D,2333,109.01,18630.148
+EL,4,2026-03-02,0001955038-26-000002,de la Faverie Stephane,0,1,0,President and CEO,Y,Restricted Stock Units (Share Payout),2026-02-27,M,D,5787,,11574
+EL,4,2026-03-02,0002036658-26-000002,Shrivastava Akhil,0,1,0,Exec VP & CFO,N,Class A Common  Stock,2026-02-27,M,A,5265.1453,,10034.1753
+EL,4,2026-03-02,0002036658-26-000002,Shrivastava Akhil,0,1,0,Exec VP & CFO,N,Class A Common  Stock,2026-02-27,F,D,1912.1453,109.01,8122.03
+EL,4,2026-03-02,0002036658-26-000002,Shrivastava Akhil,0,1,0,Exec VP & CFO,Y,Restricted Stock Units (Share Payout),2026-02-27,M,D,5265.1453,,5358.29
+EL,4,2026-03-02,0002083556-26-000003,Lammers Hendrik Rene,0,1,0,EVP & CR&IO,Y,Option (Right to Buy),2026-02-26,A,A,28156,,28156
+EL,4,2026-03-02,0002083556-26-000003,Lammers Hendrik Rene,0,1,0,EVP & CR&IO,Y,Restricted Stock Units (Share Payout),2026-02-26,A,A,7507,,7507
+EL,4,2026-03-02,0002083556-26-000003,Lammers Hendrik Rene,0,1,0,EVP & CR&IO,Y,Restricted Stock Units (Share Payout),2026-02-26,A,A,13405,,13405
