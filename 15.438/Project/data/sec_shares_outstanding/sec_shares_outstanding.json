@@ -1,0 +1,24 @@
+[
+  {
+    "ticker": "EL",
+    "error": "HTTP 404 for URL: https://data.sec.gov/api/xbrl/companyconcept/CIK0001001250/dei/EntityCommonStockSharesOutstanding.json"
+  },
+  {
+    "cik": 1024305,
+    "latest_value": 880006359,
+    "latest_end_date": "2026-01-29",
+    "latest_filed_date": "2026-02-05",
+    "latest_form": "10-Q",
+    "history_count": 39,
+    "ticker": "COTY"
+  },
+  {
+    "cik": 1600033,
+    "latest_value": 59052239,
+    "latest_end_date": "2026-01-29",
+    "latest_filed_date": "2026-02-05",
+    "latest_form": "10-Q",
+    "history_count": 39,
+    "ticker": "ELF"
+  }
+]
