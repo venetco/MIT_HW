@@ -1,0 +1,13 @@
+ticker,form,filing_date,accession,owner_name,is_director,is_officer,is_ten_percent_owner,officer_title,derivative_flag,security_title,transaction_date,transaction_code,acquired_disposed_code,transaction_shares,transaction_price,shares_owned_following_txn
+COTY,4,2026-04-10,0001972492-26-000002,Srinivasan Priya,0,1,0,Chief People & Purpose Officer,N,Class A common stock,2026-04-04,M,A,4741,,51133
+COTY,4,2026-04-10,0001972492-26-000002,Srinivasan Priya,0,1,0,Chief People & Purpose Officer,N,Class A common stock,2026-04-04,F,D,2347,,48786
+COTY,4,2026-04-10,0001972492-26-000002,Srinivasan Priya,0,1,0,Chief People & Purpose Officer,Y,Restricted Stock Units,2026-04-04,M,D,4741,,176700
+COTY,4,2026-04-03,0002116239-26-000006,Liuni Maria Carla,1,0,0,,Y,Restricted Stock Units,2026-03-18,A,A,7142,,7142
+COTY,4,2026-04-03,0002126484-26-000006,Kunst-Concewitz Robert,1,0,0,,Y,Restricted Stock Units,2026-03-18,A,A,7142,,7142
+COTY,4,2026-04-03,0002126485-26-000006,Gogi Aalia Nighat,1,0,0,,Y,Restricted Stock Units,2026-03-18,A,A,7142,,7142
+COTY,4,2026-04-03,0001678439-26-000010,Fischer Carsten,1,0,0,,Y,Restricted Stock Units,2026-03-18,A,A,7142,,7142
+COTY,4,2026-03-20,0001771330-26-000004,Plaines Stephanie,1,0,0,,Y,Restricted Stock Units,2026-03-18,A,A,7142,,7142
+COTY,4,2026-03-18,0002108845-26-000005,Strobel Markus,1,1,0,Interim CEO,Y,Restricted Stock Units,2026-03-16,A,A,1351352,,1351352
+COTY,4,2026-03-18,0002108845-26-000005,Strobel Markus,1,1,0,Interim CEO,Y,Stock Options (right to buy),2026-03-16,A,A,6000000,,6000000
+COTY,4,2026-03-09,0001024305-26-000015,von Bretten Gordon,1,1,0,President - Consumer Beauty,N,Class A common stock,2026-03-06,P,A,83000,2.4131,986620
+COTY,4,2026-02-18,0001846654-26-000002,Mercier Laurent,0,1,0,Chief Financial Officer,N,Class A common stock,2026-02-10,P,A,5000,2.6499,500031
